@@ -1271,6 +1271,23 @@
     ],
     "timestamp": "Feb/24/2021 12:27"
   },
+  "CF77715802": {
+    "contest_id": 4,
+    "language": "GNU C++14",
+    "path": "codeforces\\4\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Watermelon",
+    "problem_url": "https://codeforces.com/contest/4/problem/A",
+    "submission_id": "CF77715802",
+    "submission_url": "https://codeforces.com/contest/4/submission/77715802",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/23/2020 11:15"
+  },
   "CF77716713": {
     "contest_id": 546,
     "language": "GNU C++14",
