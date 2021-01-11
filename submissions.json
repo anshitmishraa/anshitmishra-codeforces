@@ -1,4 +1,20 @@
 {
+  "AC19375617": {
+    "contest_id": "abc171",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc171\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "\u03b1lphabet",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_a",
+    "submission_id": "AC19375617",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/19375617",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/11/2021 12:55"
+  },
   "AC19409824": {
     "contest_id": "abc180",
     "language": "C++ (GCC 9.2.1)",
